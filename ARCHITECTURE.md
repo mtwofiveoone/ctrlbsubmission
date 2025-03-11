@@ -46,7 +46,7 @@ The core game logic is implemented in TypeScript, providing a robust and type-sa
 
 **Key Components:**
 - **GridGame.ts**: Core game mechanics, board state management, move validation
-- **GameAI.ts**: AI opponent with multiple difficulty levels
+- **GameAI.ts**: AI opponent
 - **GameUI.ts**: Manages game UI elements and animations
 - **Character Dialogues**: Provides personality to AI opponents through:
   - BeforeGameDialogues.ts
