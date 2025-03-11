@@ -1,10 +1,11 @@
 # CTRL+B: A Strategic Grid Game on LUKSO
 
-![CTRL+B Logo](https://raw.githubusercontent.com/mtwofiveoone/ctrlb/main/public/Ctrl%2BBanner.png)
+![Ctrl+BSquareLogo](https://github.com/user-attachments/assets/856eccca-a417-4ab8-9835-8c1a197d57de)
+
 
 ## About CTRL+B
 
-CTRL+B is a strategic 4x4 grid game built as a LUKSO Universal Profile Mini-App. The game combines traditional grid-based gameplay with blockchain integration, allowing players to earn achievements and register wins on the LUKSO blockchain.
+CTRL+B is a strategic 4x4 grid game built as a LUKSO Universal Profile Mini-App. The game combines traditional grid-based gameplay with blockchain integration, allowing players to earn achievements and register wins to their UP account.
 
 ## Repository Purpose
 
@@ -28,11 +29,13 @@ The live version of CTRL+B can be accessed at: [https://ctrlb.netlify.app/](http
 
 ## Screenshots
 
-![Game Screenshot](https://raw.githubusercontent.com/mtwofiveoone/ctrlb/main/public/Ctrl%2BSquareLogo.png)
+<img width="1178" alt="Screenshot 2025-03-11 at 10 23 57" src="https://github.com/user-attachments/assets/07db4a35-1eae-4d48-8425-c9f12a39ad6c" />
+<img width="1178" alt="Screenshot 2025-03-11 at 10 24 11" src="https://github.com/user-attachments/assets/9f441b8a-933d-4d1d-9f09-a33ea2fe77fa" />
+<img width="1178" alt="Screenshot 2025-03-11 at 10 24 24" src="https://github.com/user-attachments/assets/b51d7eb1-c602-4fb1-af76-5e1963ee1e67" />
 
 ## Contact
 
-For more information, please contact the development team at [moritz.ryser@gmail.com](mailto:moritz.ryser@gmail.com).
+For more information, please contact the development team at [moritz@twofiveo.one](mailto:moritz@twofiveo.one).
 
 ## License
 
