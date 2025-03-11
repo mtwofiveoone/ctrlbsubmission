@@ -150,7 +150,7 @@ Each character has three sets of dialogues:
 
 When playing with a connected Universal Profile:
 
-1. Wins are registered on the LUKSO blockchain
+1. Wins are registered to the UP Wallet address
 2. Achievements can be minted as NFTs
 3. Player statistics are tracked and stored
 
